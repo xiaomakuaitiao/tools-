@@ -2,10 +2,8 @@
   "version": 2,
   "rules": [
     {
-      "domain": [
-      ],
       "domain_suffix": [
-        "redotpay.com",
+        "redotpay.com"
       ],
       "domain_keyword": "redotpay"
     }
