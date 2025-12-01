@@ -2,7 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "domain_suffix": ["147.ag"]
+      "domain_suffix": ["147.ag", "h5.147.ag"]
     }
   ]
 }
